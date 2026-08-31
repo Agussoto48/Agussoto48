@@ -8,12 +8,11 @@
   Software Engineering · Computer Systems · Web Development · Databases
 </p>
 <p align="center">
-  <a href="https://www.ucr.ac.cr/" target="_blank">
-    <img src="https://img.shields.io/badge/University-University%20of%20Costa%20Rica-informational" alt="University of Costa Rica" />
+  <a href="https://www.ucr.ac.cr/">
+    <img src="./assets/ucr-badge.svg" alt="University of Costa Rica">
   </a>
-
-  <a href="https://www.ecci.ucr.ac.cr/oferta-acad%C3%A9mica/bachillerato-en-computaci%C3%B3n-con-varios-%C3%A9nfasis-0" target="_blank">
-    <img src="https://img.shields.io/badge/Degree-Computer%20Science-informational" alt="Computer Science Degree" />
+  <a href="https://www.ecci.ucr.ac.cr/oferta-acad%C3%A9mica/bachillerato-en-computaci%C3%B3n-con-varios-%C3%A9nfasis-0">
+    <img src="./assets/ecci-badge.svg" alt="Computer Science - ECCI">
   </a>
 </p>
 
