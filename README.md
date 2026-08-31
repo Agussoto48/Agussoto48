@@ -1,7 +1,7 @@
 <h1 align="center">Agustín Soto</h1>
 
 <p align="center">
-  Computer Science Student at the University of Costa Rica
+  Software Engineer Student at the University of Costa Rica
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
     <img src="./assets/ucr-badge.svg" alt="University of Costa Rica">
   </a>
   <a href="https://www.ecci.ucr.ac.cr/oferta-acad%C3%A9mica/bachillerato-en-computaci%C3%B3n-con-varios-%C3%A9nfasis-0">
-    <img src="./assets/ecci-badge.svg" alt="Computer Science - ECCI">
+    <img src="./assets/ecci-badge.svg" alt="Software Engineer - ECCI">
   </a>
 </p>
 
