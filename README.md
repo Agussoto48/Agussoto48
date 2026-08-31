@@ -42,11 +42,11 @@ I enjoy building practical software projects while strengthening my foundations 
 
 ## Selected Projects
 
-- **[Digivice.io](#)** — Multiplayer browser-based game; focused on web technologies, software design, and collaborative Git workflows.
-- **[pos-coffee-shop-kiosk](#)** — Point-of-sale kiosk system built in Python for a software design course.
-- **Integrated Project: Software Engineering & Databases** — Applying relational database design alongside software engineering practices.
-- **Integrated Project: Operating Systems & Networks** — System-level development with network communication principles.
-- **Integrated Project: Computer Architecture & Assembly** — Low-level application built on assembly and architecture fundamentals.
+- **[Digivice.io](https://github.com/juanselospi/Digivice.io_B74200_C24549_C35000_C4K199)** — Multiplayer browser-based game; focused on web technologies, software design, and collaborative Git workflows.
+- **[pos-coffee-shop-kiosk](https://github.com/Agussoto48/pos-coffee-shop-kiosk)** — Point-of-sale kiosk system built in Python for a software design course.
+- **[Integrated Project: Software Engineering & Databases](https://github.com/juanselospi/21CoPilots_PIBasesIngesoft)** — Applying relational database design alongside software engineering practices.
+- **[Integrated Project: Operating Systems & Networks](https://github.com/Agussoto48/C4K199_PI_REDES_Y_SO/tree/main/EntregasSemanales/Semana-16/Viernes)** — System-level development with network communication principles.
+- **[Integrated Project: Computer Architecture & Assembly](https://github.com/Agussoto48/Fruit-invaders_PI_G04)** — Low-level application built on assembly and architecture fundamentals.
 
 ## Current Focus
 
