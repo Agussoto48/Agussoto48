@@ -1,6 +1,21 @@
-# Agustín Soto
+<h1 align="center">Agustín Soto</h1>
 
-Computer Science student at the University of Costa Rica with interests in software engineering, computer systems, web development, databases, and algorithms.
+<p align="center">
+  Computer Science Student at the University of Costa Rica
+</p>
+
+<p align="center">
+  Software Engineering · Computer Systems · Web Development · Databases
+</p>
+<p align="center">
+  <a href="https://www.ucr.ac.cr/" target="_blank">
+    <img src="https://img.shields.io/badge/University-University%20of%20Costa%20Rica-informational" alt="University of Costa Rica" />
+  </a>
+
+  <a href="https://www.ecci.ucr.ac.cr/oferta-acad%C3%A9mica/bachillerato-en-computaci%C3%B3n-con-varios-%C3%A9nfasis-0" target="_blank">
+    <img src="https://img.shields.io/badge/Degree-Computer%20Science-informational" alt="Computer Science Degree" />
+  </a>
+</p>
 
 I enjoy building practical software projects while strengthening my foundations in software design, operating systems, networking, computer architecture, algorithms, and collaborative development.
 
